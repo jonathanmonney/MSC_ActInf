@@ -36,7 +36,7 @@ Here, I share my entire work on this project:
 
 - The experimental paradigm I built for data collection (github.com/jonathanmonney/MSC_ActInf/tree/master/01-Paradigm)
 - The data analysis methods (github.com/jonathanmonney/MSC_ActInf/tree/master/02-Data_Analysis)
-- The submitted thesis (github.com/jonathanmonney/MSC_ActInf/JM_thesis_N.pdf)
+- The submitted thesis (github.com/jonathanmonney/MSC_ActInf/blob/master/JM_thesis_N.pdf)
 
 
 
