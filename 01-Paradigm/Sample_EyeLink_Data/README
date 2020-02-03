@@ -1,10 +1,9 @@
 
 
 Download & unzip the output files for Task 1 (Part_1.zip) Task 2 (Part_2.zip) and Task 3 (Part_3.zip).
-    The ".edf" files are the output files from the EyeLink 1000 eyetracker (at 1kHz).
-    These files have been converted to ".asc" format for data analysis.
-
-    Each trial outputs a single files as well with data for verification (each task has a sub-directory conatining these files 
-    per trial).
-    In addition to the output file from the EyeLink 1000, a ".mat" file is produced for each task, with coordinates recorded by
-    Matlab (85.33Hz).
+            The ".edf" files are the output files from the EyeLink 1000 eyetracker (at 1kHz).
+            These files have been converted to ".asc" format for data analysis.
+            Each trial outputs a single files as well with data for verification (each task has a sub-directory conatining these files 
+            per trial).
+            In addition to the output file from the EyeLink 1000, a ".mat" file is produced for each task, with coordinates recorded by
+            Matlab (85.33Hz).
