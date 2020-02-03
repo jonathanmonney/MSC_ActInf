@@ -26,9 +26,9 @@ https://github.com/jonathanmonney/MSC_ActInf/blob/master/JM_thesis_N.pdf
 	1.	Make sure all paths to the scripts found in 01-Paradigm/Scripts are added to your Matlab session.
 	2.	Open « main.m » (this will be the only script you will need to run, all others are functions to be called).
 	3.	In « main.m », adjust the direct paths to the images to be loaded by cogent. The path should be the directory 
-      containing the images in 01_Paradigm/Media.
+      		containing the images in 01_Paradigm/Media.
 	4.	There is a trial mode and a testing mode. There is also an optional online calibration method, to adjust for any 
-      error in calibration offset.
+     		error in calibration offset.
 	5.	There is sample recorded data (performed by myself) that may be found in 01-Paradigm/Sample_Eyelink_Data
 
 
