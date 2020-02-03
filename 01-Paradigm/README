@@ -8,10 +8,10 @@
 
 To run these scripts, you must have the following:
 
-	•	The scripts found in 01-Paradigm/Scripts (see https://github.com/jonathanmonney/MSC_ActInf/01-Paradigm/Scripts).
+	•	The scripts found in 01-Paradigm/Scripts (see https://github.com/jonathanmonney/MSC_ActInf/tree/master/01-Paradigm/Scripts).
 	•	A compatible version of Matlab, running on Windows (as Cogent 2000 is built for Windows only).
 	•	An Eyelink 1000 eye-tracker and head-mount.
-	•	The images found in 01-Paradigm/Media (see https://github.com/jonathanmonney/MSC_ActInf/01-Paradigm/Media).
+	•	The images found in 01-Paradigm/Media (see https://github.com/jonathanmonney/MSC_ActInf/tree/master/01-Paradigm/Media).
 	•	The Matlab toolbox Cogent 2000 (download here: http://www.vislab.ucl.ac.uk/cogent_2000_terms_and_conditions.php).
 
 For further information on the experimental set-up and paradigm and tasks, please read the methods and materials found here:
